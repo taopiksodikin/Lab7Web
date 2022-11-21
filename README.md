@@ -14,7 +14,7 @@ Lalu membuat variable pada program.
 ![Gambar 4](Folder/SS4.png)
 
 ### Membuat Operator, Kondisi IF dan Switch, Perulangan For, While, dan Dowhile
-1[Gambar 5](Folder/SS5.png)
+![Gambar 5](Folder/SS5.png)
 
 
 ### Latihan 7
